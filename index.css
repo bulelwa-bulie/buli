@@ -1,0 +1,61 @@
+html,body{
+    padding: 0;
+    margin: 0;
+}
+.header-element-container{
+    background: url(../images/island.jpeg);
+    background-size: cover;
+    height: 600px;
+}
+.logo-content{
+    float: left;
+    margin-left: 150px;
+    color: white;
+    font-size: 25px;
+}
+.toll-content{
+    float: right;
+    margin-right: 16px;
+    color: white;
+}
+.span{
+    color: orange;
+}
+.navbar-container nav{
+margin: 66px 0 0 0;
+background: white;
+height: 30px;
+}
+.navbar-container nav ul{
+    text-align: center;
+    list-style: none;
+    margin-right: 190px;
+}
+.navbar-container nav ul li{
+    display: inline;
+}
+.navbar-container nav ul li a{
+    text-decoration: none;
+    padding: 15px;
+    color: #000;
+}
+.destination-container{
+    text-align: center;
+    margin-top: 150px;
+    color: white;
+}
+#span{
+    font-size: 28px;
+}
+input{
+    padding:15px 25px;
+}
+#input1{
+    border-bottom-left-radius: 30px;
+    border-top-left-radius: 30px;
+}
+#input4{
+    border-bottom-right-radius: 30px;
+    border-top-right-radius: 30px;
+    background: orange;
+}
